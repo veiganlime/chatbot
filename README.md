@@ -7,5 +7,5 @@
 - Implement UI for  Web-App with Gradio
 
 
-Exaple how it can looks like:
+Exaple of how it can looks like:
 ![Alt text](image.png)
